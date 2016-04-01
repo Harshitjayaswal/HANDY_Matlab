@@ -13,3 +13,5 @@ To run the model
 
 
 Diffrent scenarios as in the paper can be plotted by inputting different values as defined in the Paper
+
+Note: This is a developing model. So you are welcome to contribute further in its development.
