@@ -12,4 +12,4 @@ To run the model
 2. Use handy_run.m to run the model
 
 
-Diffeent scenarios as in the paper can be obtained by inputting different values in the Paper
+Diffrent scenarios as in the paper can be plotted by inputting different values as defined in the Paper
